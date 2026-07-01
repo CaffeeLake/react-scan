@@ -57,7 +57,7 @@
     "url": "https://github.com/aidenybai/react-scan.git"
   },
   "dependencies": {
-    "@babel/core": "^7.29.0",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-transform-react-jsx": "^7.25.9",
     "@babel/preset-typescript": "^7.23.3",
     "babel-plugin-add-react-displayname": "^0.0.5",

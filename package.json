@@ -22,9 +22,9 @@
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
     "@voidzero-dev/vite-plus-core": "^0.1.12",
-    "turbo": "^2.9.3",
+    "turbo": "^2.9.14",
     "typescript": "latest",
-    "vite-plus": "^0.1.12"
+    "vite-plus": "^0.1.24"
   },
   "engines": {
     "node": ">=22",
