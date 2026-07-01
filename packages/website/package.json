@@ -14,7 +14,7 @@
     "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "^2.0.0",
     "highlight.js": "^11.11.1",
-    "next": "^16.2.4",
+    "next": "^15.5.18",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-scan": "workspace:*",
@@ -25,7 +25,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.5.0",
-    "postcss": "^8.5.13",
+    "postcss": "^8.5.14",
     "postcss-load-config": "^6.0.1",
     "tailwindcss": "^4.2.4"
   }
